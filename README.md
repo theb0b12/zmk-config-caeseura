@@ -4,10 +4,6 @@
 
 ![Keyboard Layout](.github/shield-wizard-layout.svg)
 
-Download compiled firmware from the Actions tab. <https://zmk.dev/docs/user-setup#installing-the-firmware>
-
-Edit your keymap <https://zmk.dev/docs/keymaps>.
-User keymap is located at [`config/caeseura.keymap`](config/caeseura.keymap).
 
 -----
 
