@@ -38,7 +38,7 @@
             bindings = <
 &kp ESC    &kp Q         &kp W  &kp E  &kp R  &kp T      &kp F1     &kp F2  &kp F3  &trans  &trans    &kp BSPC  &kp DEL
 &kp TAB    &kp A         &kp S  &kp D  &kp F  &kp G      &trans     &trans  &trans  &trans  &trans    &trans
-&kp LSHFT  &kp Z         &kp X  &kp C  &kp V  &kp B      &tog 0     &trans  &trans  &trans  &trans    &kp UP    &trans
+&kp LSHFT  &kp Z         &kp X  &kp C  &kp V  &kp B      &to 0      &trans  &trans  &trans  &trans    &kp UP    &trans
 &kp LCTRL  &kp LEFT_GUI                &mo 1  &kp SPACE  &kp ENTER  &mo 2                   &kp LEFT  &kp DOWN  &kp RIGHT
             >;
         };
